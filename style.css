@@ -1,3 +1,12 @@
 body {
-    background-color: red;
+    background: url(img/gato_con_hambre.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+
+}
+.main {
+    text-align: center;
+    padding-top: 25%;
 }
